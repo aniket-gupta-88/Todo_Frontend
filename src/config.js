@@ -1,1 +1,1 @@
-export const API_URL = 'http://localhost:8000'
+export const API_URL = 'https://todo-backend-test-cizl.onrender.com'
